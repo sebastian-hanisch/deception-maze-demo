@@ -1,5 +1,9 @@
 # Täuschende Landschaften – wenn die Fitness in die Sackgasse führt (Streamlit-Demo)
 
+**[→ Demo live ausprobieren](https://sebastianhanisch-deception-maze-demo.streamlit.app/)**
+
+---
+
 Interaktive Demo zu **täuschenden Suchproblemen**. **Erstes Stück (Wurzel) der Konzepte-Linie „Novelty Search und Quality-Diversity“** im Portfolio von
 [Sebastian Hanisch](https://sebastianhanisch.net) (Operations Research und Machine Learning): ein Verfahren, ein wachsendes Beispiel, jedes Folgestück hebt genau eine Annahme auf.
 
